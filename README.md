@@ -18,6 +18,5 @@
 
 ---
 
-![luisMSAmorim's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisMSAmorim&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisMSAmorim&layout=compact&show_icons=true&theme=chartreuse-dark&exclude_repo=empresaX,BlogX&hide=HTML,CSS,EJS,Handlebars)](https://github.com/luisMSAmorim/github-readme-stats)
 
