@@ -14,7 +14,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="60" height="60" align="left" title="TypeScript" />
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="60" height="60" align="left" title="React.JS" />
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisMSAmorim&layout=compact&show_icons=true&theme=chartreuse-dark&exclude_repo=empresaX,BlogX&hide=HTML,EJS,Handlebars,Haml,CSS,cshtml,scss)](https://github.com/luisMSAmorim/github-readme-stats)
 
