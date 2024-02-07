@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Luís Miguel!! 👋 </h2>
 
-- :man_technologist: Full-Stack developer 
+- :man_technologist: Full-Stack Engineer 
 - I'm currently focusing on Ruby on Rails and React.JS
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/luismiguelsilvaamorim" target="_blank"> Linkedin </a>
 
